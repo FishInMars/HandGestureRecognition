@@ -116,5 +116,10 @@ def h_gesture(angle_list):
 - [x] 安装配置yolov5环境
 - [x] 在yolov5上跑训练集
 - [x] 在mediapipe基础上添加更多手势
-- [ ] 在mediapipe基础上实现音量控制
-- [ ] 结合对比mediapipe和yolov5
+- [x] 在mediapipe基础上实现音量控制
+- [x] 结合对比mediapipe和yolov5（部分）
+
+# 更多进度#2
+
+- [ ] 结合flask封装，将内容部署
+- [ ] 更多对比以及可能的优化
